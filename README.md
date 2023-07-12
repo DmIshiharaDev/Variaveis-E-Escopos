@@ -4,8 +4,8 @@
 
 **VARIÁVEIS E ESCOPOS EM C#**
 
--São "espaços" que criamos para armazenar dados (informações - textos, números, imagem e etc)
--Variáveis podem ser lidas e reescritas em determinados momentos
+-São "espaços" que criamos para armazenar dados (informações - textos, números, imagem e etc)  
+-Variáveis podem ser lidas e reescritas em determinados momentos  
 -Elas ocupam um espaço físico dentro da memória do PC.
 
 **TIPOS PRIMITIVOS DAS VARIÁVEIS NO .NET**
