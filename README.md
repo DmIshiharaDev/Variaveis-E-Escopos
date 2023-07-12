@@ -10,11 +10,11 @@
 
 **TIPOS PRIMITIVOS DAS VARIÁVEIS NO .NET**
 
-1° - Char: armazena apenas um caracter(ex.: no nome "DANIEL", o char armazenaria apenas "D")
-2° - String: armazena uma sequência de caracteres (ex.: um texto é guardado nessa variável)
-3° - Int: armazena números inteiros (ex.: 1, 2, 586, -3, -89)
-4° - Float: armazena números decimais menorees (4.56 , 125.36 - sempre usar ponto em vez de vírgulas)
-5° - Double: armazena números decimais maiores.
+1° - Char: armazena apenas um caracter(ex.: no nome "DANIEL", o char armazenaria apenas "D")  
+2° - String: armazena uma sequência de caracteres (ex.: um texto é guardado nessa variável)  
+3° - Int: armazena números inteiros (ex.: 1, 2, 586, -3, -89)  
+4° - Float: armazena números decimais menorees (4.56 , 125.36 - sempre usar ponto em vez de vírgulas)  
+5° - Double: armazena números decimais maiores.  
 6° - Bool: armazena valor lógico (verdadeiro ou falso).
 
 **ESCOPO DE UMA VARIÁVEL**
