@@ -21,6 +21,6 @@
 
 O escopo de uma variável diz-se a respeito da parte da aplicação até onde a variável é vista/utilizável.
 
-# **EXERCÍCIO**
+## **EXERCÍCIO**
 
 Criei uma linha de códigos onde atribui valores as variáveis aprendidas (só faltou o int) e apresenta todas elas no console.
